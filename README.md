@@ -39,12 +39,6 @@ For more information, please check Tuya Developer Website
 
 * 支持电池和适配器供电方式，当停电时，亦能工作
 
-
-
-余粮不足告警
-
-语音播放
-
 # 三、开发计划
 
 3月25前完成.
